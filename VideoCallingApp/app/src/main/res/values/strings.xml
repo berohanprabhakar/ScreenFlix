@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Calling App</string>
+    <string name="logout1">logout</string>
+    <string name="logout">logout</string>
+</resources>
